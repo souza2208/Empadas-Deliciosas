@@ -1,0 +1,52 @@
+#inicio {
+    background-color: rgba(17, 178, 184, 0.652);
+    text-align: center;
+    font-size: larger;
+    color: rgb(69, 0, 139);
+    height: 140px;
+    align-items: last baseline;
+}
+
+#titulo {
+    padding: 50px;
+}
+
+#menu {
+    background-color: rgb(237, 240, 241);
+    height: 50px;
+}
+
+#linha {
+    color: rgb(192, 157, 44);
+    font-size: large;
+    align-items: last baseline;
+}
+
+#subtitulo {
+    color: rgb(213, 161, 55);
+    text-align: left;
+}
+
+#empada {
+    text-align: left;
+}
+
+#card {
+    width: 70%;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: floralwhite;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px (0, 0, 0, 1);
+
+}
+
+#cabecalho {
+    background-color: rgb(216, 0, 123);
+    color: #ddd;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
